@@ -5,4 +5,4 @@ A collection of frontend knowledge
 
 Scrum
 ---------
--http://www.danielteng.com/
+- http://www.danielteng.com/
