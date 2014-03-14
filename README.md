@@ -1,4 +1,4 @@
- Frontend Traning
+ Frontend Training
 =====================
 *Markdown editor(https://stackedit.io)*
 Training Plan
