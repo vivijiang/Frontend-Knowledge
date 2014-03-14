@@ -1,12 +1,14 @@
- Frontend Traning (Part 2 : Knockout	)
+ Frontend Training (Part 2 : Knockout	)
 =====================
-WHY
----------
-- Less effort on css details / fast, less focus on layout
-- Responsive for multi device / resolutions
-- Documentation, consistent code
-- Customize Bootstrap
-- More focus on user experience / Web site performance / Javascript
+[Knockout Documentation](http://knockoutjs.com/documentation/)
+Think in Knockout
+-----------------
+- Model-View-ViewModel (MVVM) pattern
+- KO vs jQuery
+
+> data-driven **UI**
+
+> forget jQuery (UI updates)
 
 Apply Bind
 -----------
@@ -15,7 +17,6 @@ Apply Bind
 
 Binding Values
 ---------
-
 - Normal js variable
 - Observable
 - Observable Array
@@ -24,9 +25,16 @@ Binding Values
 Context
 ---------
 - foreach 
-- \$data
-- \$root
-- \$parent
-- \$parent[N]
+- $data
+- $root
+- $parent
+- $parent[N]
 - What's the parameter in function ?
 - What's 'with'?
+
+More
+------
+- KO template
+- SPA(single page application) 
+[Blurb Editor](http://e1blurbs.ef.com/)
+- work with jQuery UI plugins
