@@ -1,5 +1,4 @@
-
- Frontend Traning (Part 1 : Bootstrap	)
+ Frontend Training (Part 1 : Bootstrap	)
 =====================
 WHY
 ---------
