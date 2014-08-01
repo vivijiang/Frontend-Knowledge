@@ -23,6 +23,17 @@ DI
 - the moudule should be requried into the current module.
 - “inline annotation” to avoid variable name being modified while doing js "minify".
 
+Promise Pattern
+========================
+- Promise, in 3 states
+    - Unfulfilled
+    - Resolved
+    - Rejected
+-$q service: a lightweight implementation of the Q library.
+    - https://github.com/kriskowal/q
+- example $q
+    - http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/
+
 
 Services
 ==================
