@@ -28,8 +28,10 @@ http://docs.telerik.com/kendo-ui/api/javascript/
 Kendo Grid
 ----------
 ### Grid Options
+http://docs.telerik.com/kendo-ui/api/javascript/ui/grid
 
 ####DataSource
+http://docs.telerik.com/kendo-ui/api/javascript/data/datasource
 > **Transport**
 > 
 >  - read
@@ -44,3 +46,7 @@ Kendo Grid
 
 > **serverPaging**
 works with **page** and **pageSize**
+
+> **sort**
+>  sort: { field: "CourseType", dir: "desc" },
+>  column setting: 
