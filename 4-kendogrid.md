@@ -50,3 +50,11 @@ works with **page** and **pageSize**
 > **sort**
 >  sort: { field: "CourseType", dir: "desc" },
 >  column setting: 
+
+#### sortable
+#### pageable
+#### editable
+- inline
+- popup
+- true
+http://embed.plnkr.co/bxPsaBzkGTlm0K0YyMbq/preview
