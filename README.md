@@ -14,6 +14,7 @@ Training Plan
 - [2-Knockout](./2-knockout.md)
 
 - 3-CSS/JS code standard
+- [4-Grid with Kendo-Angular](./4-kendogrid.md)
 
 
 
